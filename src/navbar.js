@@ -57,10 +57,10 @@ export default function Navbar() {
           </div>
 
           <div className='col-md-3 d-flex justify-content-end align-items-center'>
-            <Link><i className="p-2 text-light fs-4 glow-i bi bi-envelope"></i></Link>
-            <Link><i className="p-2 text-light fs-4 glow-i bi bi-github"></i></Link>
-            <Link><i className="p-2 text-light fs-4 glow-i bi bi-linkedin"></i></Link>
-            <Link><i className="p-2 text-light fs-4 glow-i bi bi-whatsapp"></i></Link>
+            <Link to={"https://mail.google.com/mail/?view=cm&fs=1&to=rushikeshdl18@gmail.com"} target="_blank"><i className="p-2 text-light fs-4 glow-i bi bi-envelope"></i></Link>
+            <Link to={"https://github.com/rushi1808-londhe"} target="_blank"><i className="p-2 text-light fs-4 glow-i bi bi-github"></i></Link>
+            <Link to={"https://www.linkedin.com/in/rushikesh-londhe-b947b025b/"} target="_blank"><i className="p-2 text-light fs-4 glow-i bi bi-linkedin"></i></Link>
+            <Link to={"https://wa.me/917498936755"} target="_blank"><i className="p-2 text-light fs-4 glow-i bi bi-whatsapp"></i></Link>
           </div>
 
         </div>
