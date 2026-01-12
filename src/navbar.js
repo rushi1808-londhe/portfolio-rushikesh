@@ -53,7 +53,7 @@ export default function Navbar() {
         <div className='row'>
 
           <div className='col-lg-3 col-md-8 d-flex align-items-center navbar-section'>
-            <div className="d-flex align-items-center flex-grow-1">
+            <div className="d-flex align-items-center flex-grow-1 ms-5">
               <img src={pfp} alt="pfp" className='small glow' />
               <div className='ms-3 text-center'>
                 <p className='mt-3 mb-0 fw-bold'>Rushikesh Londhe</p>
