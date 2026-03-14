@@ -43,7 +43,7 @@ export default function Project() {
                 rel="noreferrer"
                 className="btn btn-primary me-2"
               >
-                Live Demo
+                Result
               </a>
 
               <a
