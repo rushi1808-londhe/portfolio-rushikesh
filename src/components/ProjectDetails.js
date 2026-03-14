@@ -19,7 +19,7 @@ const project = [
     github: "https://github.com/rushi1808-londhe/UrbanInn",
 
     timeline: {
-      developed: "March 2025",
+      developed: "March 2026",
     },
 
     image: [
@@ -47,12 +47,12 @@ const project = [
     github: "https://github.com/rushi1808-londhe/eSociety",
 
     timeline: {
-      developed: "January 2025",
+      developed: "February 2026",
     },
 
     image: [
-      "/project_images/trendify2.png",
-      "/project_images/trendify1.png"
+      "/project_images/esociety1.png",
+      "/project_images/esociety2.png"
     ]
   },
   {
@@ -75,7 +75,7 @@ const project = [
     github: "https://github.com/rushi1808-londhe/TrendiFy",
 
     timeline: {
-      developed: "January 2025",
+      developed: "January 2026",
     },
 
     image: [
